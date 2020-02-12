@@ -1,0 +1,9 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Omnibus installation of ChefDK
+EAPI=4
+HOMEPAGE=http://www.opscode.com/chefdk/install/
+KEYWORDS=~amd64
+LICENSE=Apache
+SLOT=0
+SRC_URI=http://opscode-omnibus-packages.s3.amazonaws.com/ubuntu/12.04/x86_64/chefdk_0.12.0-1_amd64.deb
+_md5_=f61a8fa329f9cc48bdf7e58ca68bf89a
