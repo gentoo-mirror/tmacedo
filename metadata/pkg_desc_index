@@ -7,7 +7,7 @@ app-office/upwork 4.2.153: Project collaboration and tracking software for upwor
 app-vim/command-t 4.0-r1: vim plugin: fast file navigation for vim
 dev-db/apache-solr 3.6.2: Popular, blazing fast open source enterprise search platform from the Apache Lucene project
 dev-java/nailgun 9999: A client, protocol and server for running without incurring JVM startup overhead
-dev-java/scalafmt 1.1.0-r1 1.4.0: Scalafmt - code formatter for Scala
+dev-java/scalafmt-bin 2.4.2: Scalafmt - code formatter for Scala
 dev-libs/libzip 1.1.3: Library for manipulating zip archives
 dev-libs/xml-security-c 1.7.3-r1: Apache C++ XML security libraries
 dev-util/idea-community 2018.3.6.183.6156.11 2019.2.4.192.7142.36 2019.3.3.193.6494.35: A complete toolset for web, mobile and enterprise development
