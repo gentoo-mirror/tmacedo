@@ -4,7 +4,6 @@ app-emulation/vagrant-bin 1.7.2-r1 1.7.2-r2 1.7.4 1.8.7 1.9.1: Tool for building
 app-misc/cartao-do-cidadao 2.4.6 3.0.15-r1 3.0.16 3.1.0: Tool for signing with the Portuguese ID card
 app-misc/plugin-autenticacao-gov-pt 1.0.0: Tool for authenticating with https://www.autenticacao.gov.pt/
 app-office/upwork 4.2.153: Project collaboration and tracking software for upwork.com
-app-vim/command-t 4.0-r1: vim plugin: fast file navigation for vim
 dev-db/apache-solr 3.6.2: Popular, blazing fast open source enterprise search platform from the Apache Lucene project
 dev-java/nailgun 9999: A client, protocol and server for running without incurring JVM startup overhead
 dev-java/scalafmt-bin 2.4.2: Scalafmt - code formatter for Scala
