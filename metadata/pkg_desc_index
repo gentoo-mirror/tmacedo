@@ -1,4 +1,5 @@
 app-admin/chefdk-omnibus 0.4.0 0.12.0: Omnibus installation of ChefDK
+app-backup/bup 0.31.0: A highly efficient backup system based on the git packfile format
 app-emulation/packer-bin 0.8.6: Packer is a tool for creating machine and container images for multiple platforms from a single source configuration
 app-emulation/vagrant-bin 1.7.2-r1 1.7.2-r2 1.7.4 1.8.7 1.9.1: Tool for building and distributing virtual machines
 app-misc/cartao-do-cidadao 2.4.6 3.0.15-r1 3.0.16 3.1.0: Tool for signing with the Portuguese ID card
