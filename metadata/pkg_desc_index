@@ -1,6 +1,6 @@
 app-backup/bup 0.32.0: A highly efficient backup system based on the git packfile format
-app-misc/cartao-do-cidadao 3.0.15-r1 3.0.16 3.1.0 3.6.0: Tool for signing with the Portuguese ID card
+app-misc/cartao-do-cidadao 3.1.0 3.8.1: Tool for signing with the Portuguese ID card
 app-misc/plugin-autenticacao-gov-pt 2.0.70: Tool for authenticating with https://www.autenticacao.gov.pt/
 dev-java/scalafmt-bin 2.4.2: Scalafmt - code formatter for Scala
 dev-libs/libzip 1.1.3: Library for manipulating zip archives
-dev-libs/xml-security-c 1.7.3-r1 2.0.2: Apache C++ XML security libraries
+dev-libs/xml-security-c 1.7.3-r1 2.0.2 2.0.4: Apache C++ XML security libraries
