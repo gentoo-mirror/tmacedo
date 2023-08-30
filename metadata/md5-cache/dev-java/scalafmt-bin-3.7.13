@@ -1,0 +1,10 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Scalafmt - code formatter for Scala
+EAPI=8
+HOMEPAGE=http://scalameta.org/scalafmt/
+KEYWORDS=~amd64 ~x86
+LICENSE=Apache-2.0
+RDEPEND=>=virtual/jre-1.8
+SLOT=0
+SRC_URI=https://github.com/scalameta/scalafmt/releases/download/v3.7.13/scalafmt-linux-glibc
+_md5_=0b4300d91f7564ff3837894fb129ae8f
