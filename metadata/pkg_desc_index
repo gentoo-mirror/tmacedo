@@ -1,4 +1,4 @@
-app-backup/bup 0.32.0: A highly efficient backup system based on the git packfile format
+app-backup/bup 0.32.0 0.33.2: A highly efficient backup system based on the git packfile format
 app-misc/cartao-do-cidadao 3.1.0 3.8.1: Tool for signing with the Portuguese ID card
 app-misc/plugin-autenticacao-gov-pt 2.0.70: Tool for authenticating with https://www.autenticacao.gov.pt/
 dev-java/scalafmt-bin 3.7.13: Scalafmt - code formatter for Scala
