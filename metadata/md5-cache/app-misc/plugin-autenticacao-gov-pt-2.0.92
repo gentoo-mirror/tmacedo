@@ -1,0 +1,13 @@
+DEFINED_PHASES=install unpack
+DESCRIPTION=Tool for authenticating with https://www.autenticacao.gov.pt/
+EAPI=7
+HOMEPAGE=https://www.autenticacao.gov.pt/
+INHERIT=unpacker
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=sys-apps/pcsc-tools sys-apps/pcsc-lite app-crypt/ccid virtual/jre
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://aplicacoes.autenticacao.gov.pt/plugin/plugin-autenticacao-gov.deb
+_eclasses_=multiprocessing	30ead54fa2e2b5f9cd4e612ffc34d0fe	toolchain-funcs	e56c7649b804f051623c8bc1a1c44084	multilib	c19072c3cd7ac5cb21de013f7e9832e0	unpacker	fb4b84181244b3b9990fa0bf40232dd2
+_md5_=9e87558f840c45fd12ce7968ddc862aa
