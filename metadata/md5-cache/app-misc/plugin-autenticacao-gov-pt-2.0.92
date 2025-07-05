@@ -9,5 +9,5 @@ RDEPEND=sys-apps/pcsc-tools sys-apps/pcsc-lite app-crypt/ccid virtual/jre
 RESTRICT=mirror
 SLOT=0
 SRC_URI=https://aplicacoes.autenticacao.gov.pt/plugin/plugin-autenticacao-gov.deb
-_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
+_eclasses_=multiprocessing	1e32df7deee68372153dca65f4a7c21f	toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772	unpacker	3b4ee72d1e2e0374fd8cd3eddfa00627
 _md5_=9e87558f840c45fd12ce7968ddc862aa
